@@ -1,0 +1,78 @@
+.bodyleft{
+    /* border: 1px solid #000; */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    width: 430px;
+    height: 600px;
+}
+.bodyleft__first{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+.bodyleft__first__top{
+    font-size: 25px;
+    font-weight: 600;
+}
+.bodyleft__first__down{
+    font-size: 11px;
+    color: #023047;
+}
+.bodyleft__second input,.bodyleft__third input{
+    width: 300px;
+    height: 50px;
+    margin-top: 10px;
+    padding-left: 10px;
+    outline: none;
+    
+}
+
+
+.bodyleft__second{
+    color: #023047;
+}
+.bodyleft__third{
+
+}
+.bodyleft__fourth{
+    margin: 15px 0px;
+    width: 300px;
+    height: 50px;
+    /* border: 1px solid #023047; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+    background-color: #023047;
+    border-radius: 3px;
+}
+.bodyleft__fourth a{
+    color: #fff;
+}
+.bodyleft__fifth{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 12px;
+    color: #023047;
+}
+.bodyleft__fifth__left{
+    margin-right: 55px;
+}
+.bodyleft__fifth__left label{
+    margin-left: 5px;
+
+}
+.bodyleft__fifth__right{
+
+}
+.bodyleft__fifth__right a{
+    cursor: pointer;
+    color: #023047;
+}
