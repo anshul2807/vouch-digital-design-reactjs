@@ -49,4 +49,7 @@
     .navbar .btn{
         display: none;
     }
+    .navbar{
+        overflow: hidden;
+    }
 }
