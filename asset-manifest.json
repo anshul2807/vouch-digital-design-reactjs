@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/vouch-digital-design-reactjs/static/css/main.5591a2cb.css",
+    "main.css": "/vouch-digital-design-reactjs/static/css/main.9fd66d5a.css",
     "main.js": "/vouch-digital-design-reactjs/static/js/main.5a0294ce.js",
     "index.html": "/vouch-digital-design-reactjs/index.html",
-    "main.5591a2cb.css.map": "/vouch-digital-design-reactjs/static/css/main.5591a2cb.css.map",
+    "main.9fd66d5a.css.map": "/vouch-digital-design-reactjs/static/css/main.9fd66d5a.css.map",
     "main.5a0294ce.js.map": "/vouch-digital-design-reactjs/static/js/main.5a0294ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.5591a2cb.css",
+    "static/css/main.9fd66d5a.css",
     "static/js/main.5a0294ce.js"
   ]
 }
